@@ -1,7 +1,7 @@
 import React from 'react';
 import "./play.css";
 
-export function Play() {
+export function Play(props) {
   return (
     <main className="bg-secondary">
       <div className="players">
